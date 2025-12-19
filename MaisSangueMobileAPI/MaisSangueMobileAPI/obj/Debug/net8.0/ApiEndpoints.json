@@ -1,0 +1,166 @@
+[
+  {
+    "ContainingType": "MaisSangueMobileAPI.Controllers.MonitorController",
+    "Method": "DeleteUser",
+    "RelativePath": "Monitor/Apagar_monitor",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MaisSangueMobileAPI.Controllers.MonitorController",
+    "Method": "UpdateUser",
+    "RelativePath": "Monitor/Atualizar_monitor",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "MaisSangueMobileAPI.Models.MonitorModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MaisSangueMobileAPI.Controllers.MonitorController",
+    "Method": "InsertUser",
+    "RelativePath": "Monitor/Registrar_monitor",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "MaisSangueMobileAPI.Models.MonitorModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MaisSangueMobileAPI.Controllers.MonitorController",
+    "Method": "ReturnAll",
+    "RelativePath": "Monitor/Todos_monitores",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MaisSangueMobileAPI.Controllers.MonitorController",
+    "Method": "GetUserByEmail",
+    "RelativePath": "Monitor/Todos_monitores/email",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "email",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MaisSangueMobileAPI.Controllers.PacienteController",
+    "Method": "DeletePaciente",
+    "RelativePath": "Paciente/Apagar_paciente",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MaisSangueMobileAPI.Controllers.PacienteController",
+    "Method": "UpdatePaciente",
+    "RelativePath": "Paciente/Atualizar_paciente",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "MaisSangueMobileAPI.Models.PacienteModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MaisSangueMobileAPI.Controllers.PacienteController",
+    "Method": "InsertPaciente",
+    "RelativePath": "Paciente/Registrar_paciente",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "MaisSangueMobileAPI.Models.PacienteModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MaisSangueMobileAPI.Controllers.PacienteController",
+    "Method": "ReturnAll",
+    "RelativePath": "Paciente/Todos_pacientes",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MaisSangueMobileAPI.Controllers.PacienteController",
+    "Method": "GetPacienteByCPF",
+    "RelativePath": "Paciente/Todos_pacientes/cpf",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cpf",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MaisSangueMobileAPI.Controllers.PacienteController",
+    "Method": "GetPacienteById",
+    "RelativePath": "Paciente/Todos_pacientes/id",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

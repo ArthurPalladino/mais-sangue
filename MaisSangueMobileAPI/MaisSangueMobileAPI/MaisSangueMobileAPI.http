@@ -1,0 +1,6 @@
+@MaisSangueMobileAPI_HostAddress = http://localhost:5081
+
+GET {{MaisSangueMobileAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

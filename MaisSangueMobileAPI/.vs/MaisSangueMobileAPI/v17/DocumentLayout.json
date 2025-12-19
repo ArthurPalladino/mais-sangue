@@ -1,0 +1,132 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Arthur\\Desktop\\APIMaisSangueMobile\\MaisSangueMobileAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C7ED6AFD-0C6A-4757-8060-70AA39737FD4}|MaisSangueMobileAPI\\MaisSangueMobileAPI.csproj|c:\\users\\arthur\\desktop\\apimaissanguemobile\\maissanguemobileapi\\maissanguemobileapi\\repositories\\pacienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7ED6AFD-0C6A-4757-8060-70AA39737FD4}|MaisSangueMobileAPI\\MaisSangueMobileAPI.csproj|solutionrelative:maissanguemobileapi\\repositories\\pacienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7ED6AFD-0C6A-4757-8060-70AA39737FD4}|MaisSangueMobileAPI\\MaisSangueMobileAPI.csproj|c:\\users\\arthur\\desktop\\apimaissanguemobile\\maissanguemobileapi\\maissanguemobileapi\\controllers\\pacientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7ED6AFD-0C6A-4757-8060-70AA39737FD4}|MaisSangueMobileAPI\\MaisSangueMobileAPI.csproj|solutionrelative:maissanguemobileapi\\controllers\\pacientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7ED6AFD-0C6A-4757-8060-70AA39737FD4}|MaisSangueMobileAPI\\MaisSangueMobileAPI.csproj|c:\\users\\arthur\\desktop\\apimaissanguemobile\\maissanguemobileapi\\maissanguemobileapi\\services\\pacienteservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7ED6AFD-0C6A-4757-8060-70AA39737FD4}|MaisSangueMobileAPI\\MaisSangueMobileAPI.csproj|solutionrelative:maissanguemobileapi\\services\\pacienteservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7ED6AFD-0C6A-4757-8060-70AA39737FD4}|MaisSangueMobileAPI\\MaisSangueMobileAPI.csproj|c:\\users\\arthur\\desktop\\apimaissanguemobile\\maissanguemobileapi\\maissanguemobileapi\\controllers\\monitorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7ED6AFD-0C6A-4757-8060-70AA39737FD4}|MaisSangueMobileAPI\\MaisSangueMobileAPI.csproj|solutionrelative:maissanguemobileapi\\controllers\\monitorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7ED6AFD-0C6A-4757-8060-70AA39737FD4}|MaisSangueMobileAPI\\MaisSangueMobileAPI.csproj|c:\\users\\arthur\\desktop\\apimaissanguemobile\\maissanguemobileapi\\maissanguemobileapi\\interfaces\\ipacienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7ED6AFD-0C6A-4757-8060-70AA39737FD4}|MaisSangueMobileAPI\\MaisSangueMobileAPI.csproj|solutionrelative:maissanguemobileapi\\interfaces\\ipacienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7ED6AFD-0C6A-4757-8060-70AA39737FD4}|MaisSangueMobileAPI\\MaisSangueMobileAPI.csproj|c:\\users\\arthur\\desktop\\apimaissanguemobile\\maissanguemobileapi\\maissanguemobileapi\\maissanguemobileapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{C7ED6AFD-0C6A-4757-8060-70AA39737FD4}|MaisSangueMobileAPI\\MaisSangueMobileAPI.csproj|solutionrelative:maissanguemobileapi\\maissanguemobileapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7ED6AFD-0C6A-4757-8060-70AA39737FD4}|MaisSangueMobileAPI\\MaisSangueMobileAPI.csproj|c:\\users\\arthur\\desktop\\apimaissanguemobile\\maissanguemobileapi\\maissanguemobileapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7ED6AFD-0C6A-4757-8060-70AA39737FD4}|MaisSangueMobileAPI\\MaisSangueMobileAPI.csproj|solutionrelative:maissanguemobileapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PacienteController.cs",
+              "DocumentMoniker": "C:\\Users\\Arthur\\Desktop\\APIMaisSangueMobile\\MaisSangueMobileAPI\\MaisSangueMobileAPI\\Controllers\\PacienteController.cs",
+              "RelativeDocumentMoniker": "MaisSangueMobileAPI\\Controllers\\PacienteController.cs",
+              "ToolTip": "C:\\Users\\Arthur\\Desktop\\APIMaisSangueMobile\\MaisSangueMobileAPI\\MaisSangueMobileAPI\\Controllers\\PacienteController.cs",
+              "RelativeToolTip": "MaisSangueMobileAPI\\Controllers\\PacienteController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAwwBkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T03:46:09.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MaisSangueMobileAPI",
+              "DocumentMoniker": "C:\\Users\\Arthur\\Desktop\\APIMaisSangueMobile\\MaisSangueMobileAPI\\MaisSangueMobileAPI\\MaisSangueMobileAPI.csproj",
+              "RelativeDocumentMoniker": "MaisSangueMobileAPI\\MaisSangueMobileAPI.csproj",
+              "ToolTip": "C:\\Users\\Arthur\\Desktop\\APIMaisSangueMobile\\MaisSangueMobileAPI\\MaisSangueMobileAPI\\MaisSangueMobileAPI.csproj",
+              "RelativeToolTip": "MaisSangueMobileAPI\\MaisSangueMobileAPI.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-15T11:56:37.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IPacienteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Arthur\\Desktop\\APIMaisSangueMobile\\MaisSangueMobileAPI\\MaisSangueMobileAPI\\Interfaces\\IPacienteRepository.cs",
+              "RelativeDocumentMoniker": "MaisSangueMobileAPI\\Interfaces\\IPacienteRepository.cs",
+              "ToolTip": "C:\\Users\\Arthur\\Desktop\\APIMaisSangueMobile\\MaisSangueMobileAPI\\MaisSangueMobileAPI\\Interfaces\\IPacienteRepository.cs",
+              "RelativeToolTip": "MaisSangueMobileAPI\\Interfaces\\IPacienteRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T03:49:38.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PacienteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Arthur\\Desktop\\APIMaisSangueMobile\\MaisSangueMobileAPI\\MaisSangueMobileAPI\\Repositories\\PacienteRepository.cs",
+              "RelativeDocumentMoniker": "MaisSangueMobileAPI\\Repositories\\PacienteRepository.cs",
+              "ToolTip": "C:\\Users\\Arthur\\Desktop\\APIMaisSangueMobile\\MaisSangueMobileAPI\\MaisSangueMobileAPI\\Repositories\\PacienteRepository.cs",
+              "RelativeToolTip": "MaisSangueMobileAPI\\Repositories\\PacienteRepository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwB4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T02:57:49.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MonitorController.cs",
+              "DocumentMoniker": "C:\\Users\\Arthur\\Desktop\\APIMaisSangueMobile\\MaisSangueMobileAPI\\MaisSangueMobileAPI\\Controllers\\MonitorController.cs",
+              "RelativeDocumentMoniker": "MaisSangueMobileAPI\\Controllers\\MonitorController.cs",
+              "ToolTip": "C:\\Users\\Arthur\\Desktop\\APIMaisSangueMobile\\MaisSangueMobileAPI\\MaisSangueMobileAPI\\Controllers\\MonitorController.cs",
+              "RelativeToolTip": "MaisSangueMobileAPI\\Controllers\\MonitorController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T12:04:38.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PacienteServices.cs",
+              "DocumentMoniker": "C:\\Users\\Arthur\\Desktop\\APIMaisSangueMobile\\MaisSangueMobileAPI\\MaisSangueMobileAPI\\Services\\PacienteServices.cs",
+              "RelativeDocumentMoniker": "MaisSangueMobileAPI\\Services\\PacienteServices.cs",
+              "ToolTip": "C:\\Users\\Arthur\\Desktop\\APIMaisSangueMobile\\MaisSangueMobileAPI\\MaisSangueMobileAPI\\Services\\PacienteServices.cs",
+              "RelativeToolTip": "MaisSangueMobileAPI\\Services\\PacienteServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T03:45:25.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Arthur\\Desktop\\APIMaisSangueMobile\\MaisSangueMobileAPI\\MaisSangueMobileAPI\\Program.cs",
+              "RelativeDocumentMoniker": "MaisSangueMobileAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Arthur\\Desktop\\APIMaisSangueMobile\\MaisSangueMobileAPI\\MaisSangueMobileAPI\\Program.cs",
+              "RelativeToolTip": "MaisSangueMobileAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T03:51:23.172Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
