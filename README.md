@@ -15,13 +15,8 @@ No segundo semestre, durante um projeto de 7 dias da disciplina de Desenvolvimen
 ---
 
 
-
-
-Tela de login:
 <img width="499" height="793" alt="image" src="https://github.com/user-attachments/assets/8d882033-2c73-4244-919a-7d8ee09f1aa3" />
 
-Tela de busca de pacientes:
 <img width="502" height="679" alt="image" src="https://github.com/user-attachments/assets/3aa2e2f2-b078-40b4-91de-97b851b934f0" />
 
-Tela de adicionar pacientes:
 <img width="498" height="790" alt="image" src="https://github.com/user-attachments/assets/8329f101-f873-4e9e-b78b-d8267eff30f1" />
